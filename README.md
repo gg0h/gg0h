@@ -17,6 +17,7 @@
   <summary>:zap: Language Stats</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+{::options parse_block_html="false" /}
 
 
 </br>
