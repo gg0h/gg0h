@@ -6,13 +6,6 @@
 - 💬 How to reach me: [Twitter]
 
 
-<details markdown="1">
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHogg66&show_icons=true&hide_border=true&count_private=true" />
-</details>
-
----
-
 <details markdown='1'>
 
   <summary markdown='1'>:zap: Language Stats</summary>
@@ -21,6 +14,10 @@
 
 </details>
 
+<details markdown="1">
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHogg66&show_icons=true&hide_border=true&count_private=true" />
+</details>
 
 
 </br>
