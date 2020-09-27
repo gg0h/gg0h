@@ -12,9 +12,11 @@
 
 </br>
 
+[![Top Langs]]
+
 <details markdown=1>
   <summary markdown='span'>:zap: Language Stats</summary>
-[![Top Langs]]
+  [![Top Langs]]
 </details>
 
 
