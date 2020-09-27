@@ -12,9 +12,9 @@
 
 </br>
 
-<details>
+<details markdown=1>
   <summary markdown='span'>:zap: Language Stats</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]]
 </details>
 
 
@@ -22,3 +22,5 @@
 </br>
 
 [twitter]: https://twitter.com/gg41414141
+[!]: https://github.com/anuraghazra/github-readme-stats
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66
