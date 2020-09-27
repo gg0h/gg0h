@@ -10,13 +10,11 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHogg66&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs]]
-
-<details markdown=1>
+<details>
   <summary markdown='span'>:zap: Language Stats</summary>
-  [![Top Langs]]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
@@ -24,5 +22,3 @@
 </br>
 
 [twitter]: https://twitter.com/gg41414141
-[!]: https://github.com/anuraghazra/github-readme-stats
-[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66
