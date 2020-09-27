@@ -5,6 +5,7 @@
 - 🐍 I write a lot of python. Hit me up for help with flask!
 - 💬 How to reach me: [Twitter]
 
+---
 
 <details markdown='1'>
 
