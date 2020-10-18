@@ -17,10 +17,11 @@
 
 <details markdown="1">
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHogg66&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="MHogg66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHogg66&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
 
 </br>
+
 
 [twitter]: https://twitter.com/gg41414141
