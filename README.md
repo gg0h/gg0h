@@ -11,13 +11,13 @@
 
   <summary markdown='1'>:zap: Language Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66&layout=compact)](https://github.com/MHogg66/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66&layout=compact)](https://github.com/gg0h/github-readme-stats)
 
 </details>
 
 <details markdown="1">
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="MHogg66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MHogg66&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="MHogg66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gg0h&show_icons=true&hide_border=true&count_private=true" />
 </details>
 
 
