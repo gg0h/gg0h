@@ -1,6 +1,6 @@
 ## Hi there I'm Matthew 👋
 
-### I'm an Undergrad in CompSci. Make things by day and break things by night!
+### CS Undergraduate | Make things by day and break things by night!
 - ❗️ I’ve recently started playing ctfs
 - 🐍 I write a lot of python. Hit me up for help with flask!
 - 💬 How to reach me: [Twitter]
