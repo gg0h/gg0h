@@ -11,7 +11,7 @@
 
   <summary markdown='1'>:zap: Language Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHogg66&layout=compact)](https://github.com/gg0h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg0h&layout=compact)](https://github.com/gg0h/github-readme-stats)
 
 </details>
 
