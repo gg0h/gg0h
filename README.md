@@ -2,7 +2,7 @@
 
 ### CS Undergraduate | Web Developer | Cybersecurity Novice
 - ❗️ I’ve recently started playing ctfs
-- 🐍 I write a lot of python. Hit me up for help with flask!
+- 🐍 I like Python
 - 💬 How to reach me: [Twitter]
 
 ---
