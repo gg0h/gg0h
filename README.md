@@ -24,4 +24,4 @@
 </br>
 
 
-[twitter]: https://twitter.com/gg41414141
+[twitter]: https://twitter.com/0x68306767
