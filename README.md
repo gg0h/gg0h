@@ -1,7 +1,7 @@
 ## Hi there I'm Matthew 👋
 
 ### CS Undergraduate | Web Developer | Cybersecurity Novice
-- ❗️ I’ve recently started playing ctfs
+- ❗️ I’ve recently started studying for the OSCP
 - 🐍 I like Python
 - 💬 How to reach me: [Twitter]
 
