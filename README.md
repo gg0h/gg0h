@@ -1,6 +1,6 @@
 ## Hi there I'm Matthew 👋
 
-### CS Undergraduate | Web Developer | Cybersecurity Novice
+### CS Undergraduate | Web Developer | Cybersecurity Neophyte
 - ❗️ I’ve recently started studying for the OSCP
 - 🐍 I like Python
 - 💬 How to reach me: [Twitter]
