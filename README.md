@@ -9,7 +9,7 @@
 <p align="center">
 
 <a href="https://github.com/gg0h/gg0h">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gg0h&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="gg0h's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gg0h&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=34" alt="gg0h's GitHub Stats" />
 </a>
 
 <a href="https://github.com/gg0h/gg0h">
