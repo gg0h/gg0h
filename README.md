@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/gg0h/gg0h">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg0h&show_icons=true&theme=merko&layout=default&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg0h&show_icons=true&theme=merko&layout=default&hide_border=false&lang_count=4" />
 </a>
 
 </p>
