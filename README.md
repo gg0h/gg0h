@@ -5,7 +5,6 @@
 - 🐍 I like Python
 - 💬 How to reach me: [Twitter]
 
----
 
 <p align="center">
 
