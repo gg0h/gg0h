@@ -7,21 +7,18 @@
 
 ---
 
-<details markdown='1'>
+<p align="center">
 
-  <summary markdown='1'>:zap: Language Stats</summary>
+<a href="https://github.com/gg0h/gg0h">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gg0h&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="xct's GitHub Stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gg0h&layout=compact)](https://github.com/gg0h/github-readme-stats)
+<a href="https://github.com/gg0h/gg0h">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg0h&show_icons=true&theme=merko&langs_count=3&layout=default&hide_border=false" />
+</a>
 
-</details>
+</p>
 
-<details markdown="1">
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="MHogg66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gg0h&show_icons=true&hide_border=true&count_private=true" />
-</details>
-
-
-</br>
 
 
 [twitter]: https://twitter.com/0x68306767
