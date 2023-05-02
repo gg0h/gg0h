@@ -1,7 +1,7 @@
 ## gg0h
 
-### Vulnerability Analysis | Web Developer | Cybersecurity Neophyte
-- ❗️ Studying for the OSCP
+### Vulnerability Analysis | Web Developer | OSCP
+- ❗️ Preparing for OSWE
 - 🐍 Python Enthusiast
 - 💬 How to reach me: [Twitter]
 
