@@ -6,17 +6,9 @@
 - 💬 How to reach me: [Twitter]
 
 
-<p align="center">
-
-<a href="https://github.com/gg0h/gg0h">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gg0h&show_icons=true&theme=merko&include_all_commits=true&count_private=true&line_height=33.5" alt="gg0h's GitHub Stats" />
-</a>
-
-<a href="https://github.com/gg0h/gg0h">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg0h&show_icons=true&theme=merko&hide_border=false&langs_count=4" />
-</a>
-
-</p>
+### CVEs:
+- CVE-2023-25828 RCE in Pluck CMS via web-shell smuggling in JPEG
+- CVE-2023-2453 RCE in PHPFusion via LFI on arbitrary '.php' file
 
 
 
