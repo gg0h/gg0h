@@ -1,6 +1,6 @@
 ## gg0h
 
-### Vulnerability Analysis | Web Developer | OSCP | OSWE
+### Vulnerability Research | Web Developer | OSCP | OSWE
 - ❗️ Preparing for OSED
 - 🐍 Python Enthusiast
 - 💬 How to reach me: [Twitter]
