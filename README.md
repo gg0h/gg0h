@@ -12,3 +12,4 @@ web stuff
 - CVE-2024-54448 RCE in LogicalDOC via DSL scripting
 - CVE-2024-54449 RCE via arbitrary file write path traversal in LogicalDOC
 - CVE-2024-12019 Arbitrary file read path traversal in LogicalDOC
+- CVE-2025-64495 Stored DOM XSS via prompts when 'Insert Prompt as Rich Text' is enabled resulting in ATO/RCE 
